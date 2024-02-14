@@ -7,6 +7,7 @@ import (
 	"strings"
 )
 
+// Тащим вакансии
 func main() {
 	// Создание коллектора
 	c := colly.NewCollector()
